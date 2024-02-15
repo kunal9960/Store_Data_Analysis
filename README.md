@@ -8,7 +8,7 @@ Welcome to the Store Data Analysis project! This repository contains an Excel sp
 - **Inventory Management**: Track inventory levels, stock turnover rates, and receive alerts for low-stock items to ensure optimal inventory management.
   
 - **Customer Analysis**: Analyze customer demographics, purchasing behavior, and calculate customer lifetime value to tailor marketing strategies and improve customer retention.
-  
+
 - **Profitability Analysis**: Calculate key profitability metrics such as gross profit margin, net profit margin, and return on investment (ROI) to assess overall business performance.
   
 - **Data Cleaning**: Prepare the dataset for analysis by cleaning and organizing the data. This includes removing duplicates, correcting errors, and standardizing formats to ensure data accuracy and consistency.
