@@ -1,6 +1,6 @@
-# Store Analysis
+# Store Data Analysis
 
-Welcome to the Store Analysis project! This repository contains an Excel spreadsheet designed to analyze various aspects of store performance including sales, inventory, customer demographics, and profitability. This README will guide you through the contents and features of the spreadsheet.
+Welcome to the Store Data Analysis project! This repository contains an Excel spreadsheet designed to analyze various aspects of store performance including sales, inventory, customer demographics, and profitability. This README will guide you through the contents and features of the spreadsheet.
 
 ## Features
 - **Sales Dashboard**: An interactive dashboard providing insights into sales performance, including total revenue, top-selling products, sales trends over time, and geographical sales distribution.
