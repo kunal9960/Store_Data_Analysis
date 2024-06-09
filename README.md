@@ -39,7 +39,7 @@ This repository contains a excel spreadsheet designed to analyze various aspects
 ## Data Source
 
 - The data used in this analysis is sourced from [Kaggle](https://www.kaggle.com/)
-- If you're interested in accessing the raw data, it can be found [here](https://docs.google.com/spreadsheets/d/1N_Aa45UnkPmnwGqNr6oTzvUhb5TKlitM/edit#gid=1081836936).
+- If you're interested in accessing the raw data, it can be found [here](https://docs.google.com/spreadsheets/d/1N_Aa45UnkPmnwGqNr6oTzvUhb5TKlitM/edit#gid=1081836936)
 
 
 ## Usage
