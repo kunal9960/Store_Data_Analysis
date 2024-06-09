@@ -16,7 +16,7 @@ This repository contains a excel spreadsheet designed to analyze various aspects
 - **Customer Analysis**: Analyze customer demographics, purchasing behavior, and calculate customer lifetime value to tailor marketing strategies and improve customer retention.
 
 - **Profitability Analysis**: Calculate key profitability metrics such as gross profit margin, net profit margin, and return on investment (ROI) to assess overall business performance.
-  
+
 
 ## Screenshots
 
